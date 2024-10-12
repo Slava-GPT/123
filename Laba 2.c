@@ -4,8 +4,10 @@
 #include <stdbool.h>
 #include <locale.h>
 
-#define MAX_SIZE 100
 
+//Здесь был Ярик
+#define MAX_SIZE 100
+//Github
 // Структура для узла односвязного списка
 typedef struct Node {
     char data;
