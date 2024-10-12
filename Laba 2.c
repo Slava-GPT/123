@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <locale.h>
 
-
+//Теперь здесь Славик
 //Здесь был Ярик
 #define MAX_SIZE 100
 //Github
